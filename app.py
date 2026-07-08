@@ -27,7 +27,7 @@ from sklearn.metrics import (
 st.set_page_config(
     layout="wide",
     page_title="Dự báo Rủi ro Tín dụng (PD)",
-    page_icon="📊",
+    page_icon="😘",
 )
 
 # =========================================================
